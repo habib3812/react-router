@@ -1,0 +1,8 @@
+.firendCard{
+padding: 5px;
+    border:2px solid palegreen;
+    margin: 5px;
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+}
